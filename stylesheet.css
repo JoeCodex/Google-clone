@@ -1,0 +1,54 @@
+
+
+
+
+body {width: 960px;}
+.containerTop {width: 960px;height: 40px;position: relative;}
+.topRight {width: 300px; height: 30px;position: absolute; top:5px; right: 0; }
+.tmb1, .tmb2,.tmb3,.tmb4,.tmb5 {font: bold 11px/20px Arial,sans-serif; display:inline-block ; float: left; height: 24px; line-height: 24px; padding: 5px; font-size: 12;}
+.tmb1 a, .tmb2 a, .tmb3 a{color: #454545; text-decoration: none;}
+.tmb1 a:hover, .tmb2 a:hover, .tmb3 a:hover {text-decoration: underline;}
+.tmb4 { display: inline-box; padding: 0 10px; height: 2px;}
+.tmb5 {border-radius: 3px;color: white; background-color: blue;padding: 5px 10px;}
+/****************************************************************************************************/
+.logoCt {height: 300px; position: relative;}
+.logo { position: absolute; top:85%; left: 50%; height: 80px; width:240px; transform: translate(-50%, -50%);}
+.searchBox {display: block; height: 25px; width: 500px;  margin: 10px auto 0 auto; border: 1px solid gray;}
+.searchBox img {float: right; height: 25px;}
+.btCtCt {height: 45px; position: relative;}
+.btCtCt btCt div a {color: #454545;}
+.btCt {width: 230px; display: block; height: 30px;margin: 5px auto 10px auto; }
+.btL{display:inline-block; height: 25px; width: 90px; margin: 0 5px 5px 10px;background-color: #f2f2f2;text-align: center;font: bold 11px/20px Arial,sans-serif; border: 1px solid #454545; padding-top: 3px;}
+.btL a {color: #454545; text-decoration: none;}
+.btR{display: inline-block;height: 25px; width: 100px;  margin: 0 10px 5px 5px;background-color: #f2f2f2; font: bold 11px/20px Arial,sans-serif; text-align: center; border: 1px solid #252525;padding-top: 3px;}
+.btR a {color: #454545; text-decoration: none;}
+.empty {height: 300px;}
+.footer {height: 30px;}
+/****************************************************************************************************/
+footer {background-color: #f2f2f2;  }
+footer div a {color: #636363; text-decoration: none;}
+footer div a:hover {text-decoration: underline;}
+.subML {display: inline-block; margin-left: 20px;}
+.subMR {  float: right; margin-right: 20px;}
+.subML div, .subMR div { display: inline-block; padding: 5px 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
